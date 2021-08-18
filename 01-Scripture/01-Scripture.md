@@ -1,4 +1,4 @@
-# Baptist Statement of Faith - Scripture
+# Scripture
 
 ## Statement
 We believe (1) that the Holy Scriptures
