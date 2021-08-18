@@ -1,34 +1,23 @@
 # Scripture
 
 ## Statement
-We believe (1) that the Holy Scriptures
-consist of the 66 books of the Old and
-New Testaments, and (2) that the Spirit of
-God so influenced the authors that these
-writings are the Word of God; (3) that
-because of the divine origin and
-inspiration of its words, the Scriptures are
-true in all that they affirm and are
-trustworthy and without error; (4) that
-these Scriptures are the complete and only
-written revelation of God to people, and in
-them are clearly revealed those truths
-necessary for our salvation, godly living,
-and maturity in Christ; and (5) that
-Scripture alone is our sufficient and final
-authority in all matters of belief and
-practice
+We believe (1) that the Holy Scriptures consist of the 66 books of the Old and New Testaments in their original writing; (2) that the Spirit of God so influenced the authors that these writings are the Word of God; (3) that because of the divine origin and inspiration of its words, the Scriptures are true in all that they affirm and are trustworthy and without error; (4) that these Scriptures are the complete and only written revelation of God to people; (5) that every translation that is faithful to the originals and responsibly interpreted clearly reveals those truths necessary for our salvation, godly living, and maturity in Christ; and (6) that Scripture alone is our sufficient and final authority in all matters of belief and practice.
 
-## 1
->[Mat 5:18 ESV] For truly, I say to you, until heaven and earth pass away, not an iota, not a dot, will pass from the Law until all is accomplished.
+## Substantiation
+### 1 - That the Holy Scriptures consist of the 66 books of the Old and New Testaments in their original writing.
+Romans 3:2 ESV - "Much in every way. To begin with, the Jews were entrusted with the oracles of God."
 
->[Luk 24:27 ESV] And beginning with Moses and all the Prophets, he interpreted to them in all the Scriptures the things concerning himself.
+Matthew 5:18 ESV - "For truly, I say to you, until heaven and earth pass away, not an iota, not a dot, will pass from the Law until all is accomplished."
 
->[Luk 24:44 ESV] Then he said to them, "These are my words that I spoke to you while I was still with you, that everything written about me in the Law of Moses and the Prophets and the Psalms must be fulfilled."
+Luke 24:27 ESV - "And beginning with Moses and all the Prophets, he interpreted to them in all the Scriptures the things concerning himself."
 
->[Rom 3:2 ESV] Much in every way. To begin with, the Jews were entrusted with the oracles of God.
+Revelation 22:18-19 ESV - "I warn everyone who hears the words of the prophecy of this book: if anyone adds to them, God will add to him the plagues described in this book, and if anyone takes away from the words of the book of this prophecy, God will take away his share in the tree of life and in the holy city, which are described in this book."
 
-## 2
+Deuteronomy 4:1-2 ESV - ""And now, O Israel, listen to the statutes and the rules that I am teaching you, and do them, that you may live, and go in and take possession of the land that the LORD, the God of your fathers, is giving you. You shall not add to the word that I command you, nor take from it, that you may keep the commandments of the LORD your God that I command you."
+
+Proverbs 30:5-6 ESV - "Every word of God proves true; he is a shield to those who take refuge in him. Do not add to his words, lest he rebuke you and you be found a liar."
+
+### 2 - That the Spirit of God so influenced the authors that these writings are the Word of God.
 >[2Sa 23:2 ESV] [2] "The Spirit of the LORD speaks by me; his word is on my tongue.
 
 >[Mat 16:15 ESV] [15] He said to them, "But who do you say that I am?"
@@ -43,7 +32,7 @@ practice
 
 >[2Pe 1:19-21 ESV] [19] And we have the prophetic word more fully confirmed, to which you will do well to pay attention as to a lamp shining in a dark place, until the day dawns and the morning star rises in your hearts, [20] knowing this first of all, that no prophecy of Scripture comes from someone's own interpretation. [21] For no prophecy was ever produced by the will of man, but men spoke from God as they were carried along by the Holy Spirit.
 
-## 3
+### 3 - That because of the divine origin and inspiration of its words, the Scriptures are true in all that they affirm and are trustworthy and without error.
 >[Jer 30:1 ESV] [1] The word that came to Jeremiah from the LORD:
 
 >[2Th 2:13 ESV] [13] But we ought always to give thanks to God for you, brothers beloved by the Lord, because God chose you as the firstfruits to be saved, through sanctification by the Spirit and belief in the truth.
@@ -52,7 +41,7 @@ practice
 
 >[1Jo 5:9 ESV] [9] If we receive the testimony of men, the testimony of God is greater, for this is the testimony of God that he has borne concerning his Son.
 
-## 4
+### 4 - That these Scriptures are the complete and only written revelation of God to people.
 >[2Ki 22:13 ESV] [13] "Go, inquire of the LORD for me, and for the people, and for all Judah, concerning the words of this book that has been found. For great is the wrath of the LORD that is kindled against us, because our fathers have not obeyed the words of this book, to do according to all that is written concerning us."
 
 >[Psa 119:105, 130 ESV] [105] [Nun] Your word is a lamp to my feet and a light to my path. ... [130] The unfolding of your words gives light; it imparts understanding to the simple.
@@ -65,13 +54,15 @@ practice
 
 >[2Pe 1:3-4 ESV] [3] His divine power has granted to us all things that pertain to life and godliness, through the knowledge of him who called us to his own glory and excellence, [4] by which he has granted to us his precious and very great promises, so that through them you may become partakers of the divine nature, having escaped from the corruption that is in the world because of sinful desire.
 
-## 5
+### 5 - That every translation that is faithful to the originals and responsibly interpreted clearly reveals those truths necessary for our salvation, godly living, and maturity in Christ.
 
 >[Mat 22:29-32 ESV] [29] But Jesus answered them, "You are wrong, because you know neither the Scriptures nor the power of God. [30] For in the resurrection they neither marry nor are given in marriage, but are like angels in heaven. [31] And as for the resurrection of the dead, have you not read what was said to you by God: [32] 'I am the God of Abraham, and the God of Isaac, and the God of Jacob'? He is not God of the dead, but of the living."
 
 >[Act 17:11 ESV] [11] Now these Jews were more noble than those in Thessalonica; they received the word with all eagerness, examining the Scriptures daily to see if these things were so.
 
 >[Act 28:23-25 ESV] [23] When they had appointed a day for him, they came to him at his lodging in greater numbers. From morning till evening he expounded to them, testifying to the kingdom of God and trying to convince them about Jesus both from the Law of Moses and from the Prophets. [24] And some were convinced by what he said, but others disbelieved. [25] And disagreeing among themselves, they departed after Paul had made one statement: "The Holy Spirit was right in saying to your fathers through Isaiah the prophet:
+
+### 6 - That Scripture alone is our sufficient and final authority in all matters of belief and practice.
 
 ## Memory Verse
 
