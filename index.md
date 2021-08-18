@@ -8,8 +8,10 @@ A similar pdf is available for download from the resources section of the BNA we
 
 [01 - Scripture](01-Scripture/01-Scripture.md)
 
+[Appendix A - Memory Verses](A1-Memory-Verses/memory-verses.md)
+
 ## References
-[Blue Letter Bible](https://www.blueletterbible.org/)
-Baptist Northern Association Website
-    *[Statement of Belief](http://www.baptistnorthernassociation.org.za/what-we-believe/)
-    *[Resource Downloads](http://www.baptistnorthernassociation.org.za/resources-2017-statement-of-belief/)
+
+[BNA Statement of Belief](http://www.baptistnorthernassociation.org.za/what-we-believe/)
+
+[BNA Resource Downloads](http://www.baptistnorthernassociation.org.za/resources-2017-statement-of-belief/)

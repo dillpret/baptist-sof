@@ -18,52 +18,67 @@ Deuteronomy 4:1-2 ESV - ""And now, O Israel, listen to the statutes and the rule
 Proverbs 30:5-6 ESV - "Every word of God proves true; he is a shield to those who take refuge in him. Do not add to his words, lest he rebuke you and you be found a liar."
 
 ### 2 - That the Spirit of God so influenced the authors that these writings are the Word of God.
->[2Sa 23:2 ESV] [2] "The Spirit of the LORD speaks by me; his word is on my tongue.
+2 Peter 1:19-21 ESV - "And we have the prophetic word more fully confirmed, to which you will do well to pay attention as to a lamp shining in a dark place, until the day dawns and the morning star rises in your hearts, knowing this first of all, that no prophecy of Scripture comes from someone's own interpretation. For no prophecy was ever produced by the will of man, but men spoke from God as they were carried along by the Holy Spirit."
 
->[Mat 16:15 ESV] [15] He said to them, "But who do you say that I am?"
+Luke 1:70 ESV - "as he spoke by the mouth of his holy prophets from of old,"
 
->[Luk 1:70 ESV] [70] as he spoke by the mouth of his holy prophets from of old,
+Acts 1:16 ESV - ""Brothers, the Scripture had to be fulfilled, which the Holy Spirit spoke beforehand by the mouth of David concerning Judas, who became a guide to those who arrested Jesus."
 
->[Act 1:16 ESV] [16] "Brothers, the Scripture had to be fulfilled, which the Holy Spirit spoke beforehand by the mouth of David concerning Judas, who became a guide to those who arrested Jesus.
+Acts 3:18 ESV - "But what God foretold by the mouth of all the prophets, that his Christ would suffer, he thus fulfilled."
 
->[Act 3:18 ESV] [18] But what God foretold by the mouth of all the prophets, that his Christ would suffer, he thus fulfilled.
+Ephesians 6:17 ESV - "and take the helmet of salvation, and the sword of the Spirit, which is the word of God,"
 
->[Eph 6:17 ESV] [17] and take the helmet of salvation, and the sword of the Spirit, which is the word of God,
-
->[2Pe 1:19-21 ESV] [19] And we have the prophetic word more fully confirmed, to which you will do well to pay attention as to a lamp shining in a dark place, until the day dawns and the morning star rises in your hearts, [20] knowing this first of all, that no prophecy of Scripture comes from someone's own interpretation. [21] For no prophecy was ever produced by the will of man, but men spoke from God as they were carried along by the Holy Spirit.
+Hebrews 3:7 ESV - "Therefore, as the Holy Spirit says, "Today, if you hear his voice,"
 
 ### 3 - That because of the divine origin and inspiration of its words, the Scriptures are true in all that they affirm and are trustworthy and without error.
->[Jer 30:1 ESV] [1] The word that came to Jeremiah from the LORD:
+John 10:35 ESV - "If he called them gods to whom the word of God came--and Scripture cannot be broken--"
 
->[2Th 2:13 ESV] [13] But we ought always to give thanks to God for you, brothers beloved by the Lord, because God chose you as the firstfruits to be saved, through sanctification by the Spirit and belief in the truth.
+John 17:17 ESV - "Sanctify them in the truth; your word is truth."
 
->[2Ti 3:16-17 ESV] [16] All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, [17] that the man of God may be complete, equipped for every good work.
+2 Timothy 3:16-17 ESV - "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work."
 
->[1Jo 5:9 ESV] [9] If we receive the testimony of men, the testimony of God is greater, for this is the testimony of God that he has borne concerning his Son.
+John 14:26 ESV - "But the Helper, the Holy Spirit, whom the Father will send in my name, he will teach you all things and bring to your remembrance all that I have said to you."
 
 ### 4 - That these Scriptures are the complete and only written revelation of God to people.
->[2Ki 22:13 ESV] [13] "Go, inquire of the LORD for me, and for the people, and for all Judah, concerning the words of this book that has been found. For great is the wrath of the LORD that is kindled against us, because our fathers have not obeyed the words of this book, to do according to all that is written concerning us."
+Matthew 24:35 ESV - "Heaven and earth will pass away, but my words will not pass away."
 
->[Psa 119:105, 130 ESV] [105] [Nun] Your word is a lamp to my feet and a light to my path. ... [130] The unfolding of your words gives light; it imparts understanding to the simple.
+Romans 3:2 ESV - "Much in every way. To begin with, the Jews were entrusted with the oracles of God."
 
->[Isa 8:20 ESV] [20] To the teaching and to the testimony! If they will not speak according to this word, it is because they have no dawn.
+Acts 7:38 ESV - "This is the one who was in the congregation in the wilderness with the angel who spoke to him at Mount Sinai, and with our fathers. He received living oracles to give to us."
 
->[Jhn 16:13 ESV] [13] When the Spirit of truth comes, he will guide you into all the truth, for he will not speak on his own authority, but whatever he hears he will speak, and he will declare to you the things that are to come.
+1 Corinthians 9:8-10 ESV - "Do I say these things on human authority? Does not the Law say the same? For it is written in the Law of Moses, "You shall not muzzle an ox when it treads out the grain." Is it for oxen that God is concerned? Does he not certainly speak for our sake? It was written for our sake, because the plowman should plow in hope and the thresher thresh in hope of sharing in the crop."
 
->[Heb 4:12 ESV] [12] For the word of God is living and active, sharper than any two-edged sword, piercing to the division of soul and of spirit, of joints and of marrow, and discerning the thoughts and intentions of the heart.
+1 Corinthians 4:6 ESV - "I have applied all these things to myself and Apollos for your benefit, brothers, that you may learn by us not to go beyond what is written, that none of you may be puffed up in favor of one against another."
 
->[2Pe 1:3-4 ESV] [3] His divine power has granted to us all things that pertain to life and godliness, through the knowledge of him who called us to his own glory and excellence, [4] by which he has granted to us his precious and very great promises, so that through them you may become partakers of the divine nature, having escaped from the corruption that is in the world because of sinful desire.
+Deuteronomy 4:1-2 ESV - ""And now, O Israel, listen to the statutes and the rules that I am teaching you, and do them, that you may live, and go in and take possession of the land that the LORD, the God of your fathers, is giving you. You shall not add to the word that I command you, nor take from it, that you may keep the commandments of the LORD your God that I command you."
+
+Proverbs 30:5-6 ESV - "Every word of God proves true; he is a shield to those who take refuge in him. Do not add to his words, lest he rebuke you and you be found a liar."
+
+Revelation 22:18-19 ESV - "I warn everyone who hears the words of the prophecy of this book: if anyone adds to them, God will add to him the plagues described in this book, and if anyone takes away from the words of the book of this prophecy, God will take away his share in the tree of life and in the holy city, which are described in this book."
 
 ### 5 - That every translation that is faithful to the originals and responsibly interpreted clearly reveals those truths necessary for our salvation, godly living, and maturity in Christ.
 
->[Mat 22:29-32 ESV] [29] But Jesus answered them, "You are wrong, because you know neither the Scriptures nor the power of God. [30] For in the resurrection they neither marry nor are given in marriage, but are like angels in heaven. [31] And as for the resurrection of the dead, have you not read what was said to you by God: [32] 'I am the God of Abraham, and the God of Isaac, and the God of Jacob'? He is not God of the dead, but of the living."
+2 Timothy 2:15 ESV - "Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth."
 
->[Act 17:11 ESV] [11] Now these Jews were more noble than those in Thessalonica; they received the word with all eagerness, examining the Scriptures daily to see if these things were so.
+2 Peter 3:16 ESV - "as he does in all his letters when he speaks in them of these matters. There are some things in them that are hard to understand, which the ignorant and unstable twist to their own destruction, as they do the other Scriptures."
 
->[Act 28:23-25 ESV] [23] When they had appointed a day for him, they came to him at his lodging in greater numbers. From morning till evening he expounded to them, testifying to the kingdom of God and trying to convince them about Jesus both from the Law of Moses and from the Prophets. [24] And some were convinced by what he said, but others disbelieved. [25] And disagreeing among themselves, they departed after Paul had made one statement: "The Holy Spirit was right in saying to your fathers through Isaiah the prophet:
+Acts 17:11 ESV - "Now these Jews were more noble than those in Thessalonica; they received the word with all eagerness, examining the Scriptures daily to see if these things were so."
+
+2 Peter 1:3-4 ESV - "His divine power has granted to us all things that pertain to life and godliness, through the knowledge of him who called us to his own glory and excellence, by which he has granted to us his precious and very great promises, so that through them you may become partakers of the divine nature, having escaped from the corruption that is in the world because of sinful desire."
+
+Psalm 19:7-14 ESV - "The law of the LORD is perfect, reviving the soul; the testimony of the LORD is sure, making wise the simple; the precepts of the LORD are right, rejoicing the heart; the commandment of the LORD is pure, enlightening the eyes; the fear of the LORD is clean, enduring forever; the rules of the LORD are true, and righteous altogether. More to be desired are they than gold, even much fine gold; sweeter also than honey and drippings of the honeycomb. Moreover, by them is your servant warned; in keeping them there is great reward. Who can discern his errors? Declare me innocent from hidden faults. Keep back your servant also from presumptuous sins; let them not have dominion over me! Then I shall be blameless, and innocent of great transgression. Let the words of my mouth and the meditation of my heart be acceptable in your sight, O LORD, my rock and my redeemer."
 
 ### 6 - That Scripture alone is our sufficient and final authority in all matters of belief and practice.
+Jude 1:3 ESV - "Beloved, although I was very eager to write to you about our common salvation, I found it necessary to write appealing to you to contend for the faith that was once for all delivered to the saints."
+
+Luke 16:29-31 ESV - "But Abraham said, 'They have Moses and the Prophets; let them hear them.' And he said, 'No, father Abraham, but if someone goes to them from the dead, they will repent.' He said to him, 'If they do not hear Moses and the Prophets, neither will they be convinced if someone should rise from the dead.'""
+
+Matthew 4:1-4 ESV - "Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil. And after fasting forty days and forty nights, he was hungry. And the tempter came and said to him, "If you are the Son of God, command these stones to become loaves of bread." But he answered, "It is written, "'Man shall not live by bread alone, but by every word that comes from the mouth of God.'""
+
+Mark 7:9-13 ESV - "And he said to them, "You have a fine way of rejecting the commandment of God in order to establish your tradition! For Moses said, 'Honor your father and your mother'; and, 'Whoever reviles father or mother must surely die.' But you say, 'If a man tells his father or his mother, "Whatever you would have gained from me is Corban"' (that is, given to God)-- then you no longer permit him to do anything for his father or mother, thus making void the word of God by your tradition that you have handed down. And many such things you do.""
+
+Romans 15:4 ESV - "For whatever was written in former days was written for our instruction, that through endurance and through the encouragement of the Scriptures we might have hope."
 
 ## Memory Verse
 
->[Psa 1:1-2 ESV] [1] Blessed is the man who walks not in the counsel of the wicked, nor stands in the way of sinners, nor sits in the seat of scoffers; [2] but his delight is in the law of the LORD, and on his law he meditates day and night.
+Psalm 1:1-2 ESV - "Blessed is the man who walks not in the counsel of the wicked, nor stands in the way of sinners, nor sits in the seat of scoffers; but his delight is in the law of the LORD, and on his law he meditates day and night."
