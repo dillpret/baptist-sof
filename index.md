@@ -8,7 +8,7 @@ A similar pdf is available for download from the resources section of the BNA we
 
 [01 - Scripture](01-Scripture/Scripture.md)
 
-[02 - God](01-God/God.md)
+[02 - God](02-God/God.md)
 
 [03 - Creation](03-Creation/Creation.md)
 
@@ -33,6 +33,8 @@ A similar pdf is available for download from the resources section of the BNA we
 [12 - The Resurrection](12-Resurrection/Resurrection.md)
 
 [Appendix A - Memory Verses](A1-Memory-Verses/memory-verses.md)
+
+[Appendix B - Baptist Principles](A2-Baptist-Principles/baptist-principles.md)
 
 ## References
 
