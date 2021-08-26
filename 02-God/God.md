@@ -18,7 +18,7 @@ Matthew 3:16-17 ESV - "And when Jesus was baptized, immediately he went up from 
 
 Matthew 28:19 ESV - "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,"
 
-Matthew 14:16-17 ESV - "But Jesus said, "They need not go away; you give them something to eat." They said to him, "We have only five loaves here and two fish.""
+John 14:16-17 ESV - "And I will ask the Father, and he will give you another Helper, to be with you forever, even the Spirit of truth, whom the world cannot receive, because it neither sees him nor knows him. You know him, for he dwells with you and will be in you."
 
 1 Peter 1:1-2 ESV - "Peter, an apostle of Jesus Christ, To those who are elect exiles of the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia, according to the foreknowledge of God the Father, in the sanctification of the Spirit, for obedience to Jesus Christ and for sprinkling with his blood: May grace and peace be multiplied to you."
 

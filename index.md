@@ -1,6 +1,6 @@
-# Baptist Statement of Faith
+# Baptist Northern Association 2017 Statement of Faith
 
-The pages below contain sections from the Baptist Northern Association statement of faith, compiled for the purpose of easy reference on mobile devices during discussion by bible study groups.
+The pages below contain sections from the 2017 Statement of Belief, compiled for the purpose of easy reference on mobile devices during discussion by bible study groups.
 
 A similar pdf is available for download from the resources section of the BNA website listed below. 
 
