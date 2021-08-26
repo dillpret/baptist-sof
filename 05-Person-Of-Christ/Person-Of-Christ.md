@@ -1,6 +1,7 @@
 # The Person of Christ
 
 ## Statement
+We believe (1) that when the time was right, the eternal Son of God took on human nature, and was made like us in every way, yet without sin; (2) that, after being conceived by the Holy Spirit, He was born of the virgin Mary, was named Jesus (meaning ‘God saves’), and from conception was and always will be fully God and fully man in one person; and (3) that He is, therefore, the perfect and only mediator between God and people.
 
 ## Substantiation
 
