@@ -28,7 +28,7 @@ A similar pdf is available for download from the resources section of the BNA we
 
 [10 - The Ordinances](10-Ordinances/Ordinances.md)
 
-[11 - Mission](11-Mission/Mission.md)
+[11 - The Mission of God](11-Mission/Mission.md)
 
 [12 - The Resurrection](12-Resurrection/Resurrection.md)
 
